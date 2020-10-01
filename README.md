@@ -6,6 +6,8 @@ VAE-GAN Architecture forr unsupervised image-to-image translation with shared sp
 
 ![Network Architecture](images/image-to-image-sensors.png)
 
+![Alt Text](synthetic_animation.gif)
+
 ## Dependencies
 
 Python==3.7 <br>
