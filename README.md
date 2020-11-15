@@ -8,6 +8,10 @@ VAE-GAN Architecture forr unsupervised image-to-image translation with shared sp
 
 ![Alt Text](synthetic_animation.gif)
 
+## Data
+
+https://drive.google.com/file/d/1gzLcqWiKPjvzltp2nVZH6uCSIQ0G2h1u/view?usp=sharing
+
 ## Dependencies
 
 Python==3.7 <br>
